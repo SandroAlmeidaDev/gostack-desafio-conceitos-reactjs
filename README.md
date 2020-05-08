@@ -25,3 +25,8 @@ https://github.com/SandroAlmeidaDev/goostack-desafio-conceitos-node
 
 1 - yarn start
 
+![repositorios](https://user-images.githubusercontent.com/58606794/81363152-05dde880-90b9-11ea-9f0e-f89ac1c8c8d7.gif)
+
+
+# License 
+[Sandro Almeida](https://github.com/SandroAlmeidaDev)
