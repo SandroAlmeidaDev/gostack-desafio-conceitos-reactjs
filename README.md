@@ -1,6 +1,6 @@
 ![bootcamp-keep-coding](https://user-images.githubusercontent.com/58606794/80931247-e2503080-8d8e-11ea-81c7-67ca728fb2a1.png)
 
-# Goostack desafio 03 - Conceitos do ReactJS
+# Gostack desafio 03 - Conceitos do ReactJS
 
 ## Tecnologias utilizadas:
 - [ReactJS](https://reactjs.org/)
